@@ -8,7 +8,7 @@ import CircleButton from './components/CircleButton';
 import IconButton from './components/IconButton';
 import * as ImagePicker from 'expo-image-picker';
 
-const PlaceholderImage = require('./assets/background-image.png');
+const PlaceholderImage = require('./assets/background-image.jpg');
 
 export default function App() {
   const onReset = () => {
